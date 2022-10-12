@@ -38,3 +38,6 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+
+https://blog.csdn.net/qq_31653405/article/details/80594367  如何将本地项目上传到Github
+https://cloud.tencent.com/developer/article/2034373  你不知道的 Electron (二)：了解 Electron 打包
